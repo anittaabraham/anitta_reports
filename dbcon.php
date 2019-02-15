@@ -1,3 +1,3 @@
 <?php
-$con= mysqli_connect('localhost','root','','detail');
+	$con=mysqli_connect('localhost','root','','registration');
 ?>
